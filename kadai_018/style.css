@@ -53,14 +53,12 @@
     display: block;
     width: 400px;
     height: 100px;
-    margin: 0;
     background-color: #e5dcf0;
 }
 #bottom-child02 {
     display: block;
     width: 400px;
     height: 100px;
-    margin: 0;
     background-color: #e5dcf0;
     position: relative;
     left: 200px;
@@ -69,7 +67,6 @@
     display: block;
     width: 400px;
     height: 100px;
-    margin: 0;
     background-color: #e5dcf0;
     position: relative;
     left: 400px;
